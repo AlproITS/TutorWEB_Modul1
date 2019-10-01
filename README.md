@@ -1,6 +1,7 @@
 # Modul 1 Tutorial Web (HTML,CSS,JS)
 ## Daftar Isi
 
+- [Kebutuhan](#kebutuhan)
 - HTML
 - CSS
   + Inline
